@@ -1,6 +1,6 @@
 ###  Horizon finding
 
-A classic problem in computer vision is to identify where on Earth a photo was taken using visual features alone (e.g., not using GPS). For some images, this is relatively easy | a photo with the Eifiel tower in it was probably taken in Paris (or Las Vegas, or Disneyworld, or ...). But what about open places? One way of trying to geolocate such photos is by extracting the horizon (the boundary between the sky and the mountains) and using this as a fingerprint" that can be matched with a digital elevation map to identify
+#### A classic problem in computer vision is to identify where on Earth a photo was taken using visual features alone (e.g., not using GPS). For some images, this is relatively easy | a photo with the Eifiel tower in it was probably taken in Paris (or Las Vegas, or Disneyworld, or ...). But what about open places? One way of trying to geolocate such photos is by extracting the horizon (the boundary between the sky and the mountains) and using this as a fingerprint" that can be matched with a digital elevation map to identify
 where the photo was taken.
 
 
